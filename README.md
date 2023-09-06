@@ -1,6 +1,7 @@
 # SQ-Offensive-Rebounding
+![image](https://github.com/timseymour42/shotquality-offensive-rebounding/assets/73562010/0953ad12-1d2c-4443-a04b-04e9a03b1145)
 
-Link to Kaggle Leaderboard (I came in first place!): https://www.kaggle.com/competitions/shotquality-rebounding/leaderboard
+[Link to Kaggle Leaderboard](https://www.kaggle.com/competitions/shotquality-rebounding/leaderboard) (I came in first place!)
 
 # **Predicting Offensive Rebounds in Basketball: A Location-Based Approach**
 
