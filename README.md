@@ -1,5 +1,4 @@
 # SQ-Offensive-Rebounding
-Predicting whether the defense or offense will retrieve a rebound
 
 Link to Kaggle Leaderboard (I came in first place!): https://www.kaggle.com/competitions/shotquality-rebounding/leaderboard
 
